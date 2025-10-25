@@ -355,42 +355,4 @@ deposit(key: 0, amount: 10000000000000000000)  // 10 tokens
 withdraw(key: 0)  // Returns principal + accrued interest
 ```
 
-## 🔮 Future Enhancements
-
-- [ ] Multi-asset pool support
-- [ ] Dynamic interest rate curves
-- [ ] Automated liquidation engine
-- [ ] Credit score oracle integration
-- [ ] Governance token for protocol decisions
-- [ ] Insurance fund for lender protection
-- [ ] Cross-chain bridge integration
-- [ ] Advanced risk modeling algorithms
-- [ ] Reputation-based credit limits
-- [ ] Secondary loan markets
-
-## 🛡️ Security Considerations
-
-- All borrowers undergo KYC verification before accessing undercollateralized loans
-- Multi-signature admin controls for critical operations
-- Time-locked parameter updates
-- Emergency pause functionality (to be implemented)
-- External audit recommendations (pending)
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our contributing guidelines for more details.
-
-## 📞 Contact & Support
-
-- **Website**: [Coming Soon]
-- **Twitter**: [Coming Soon]
-- **Discord**: [Coming Soon]
-- **Documentation**: [Coming Soon]
-
----
-
 **Disclaimer**: Under Finance is experimental software. Use at your own risk. This protocol involves financial risk and participants should conduct their own due diligence before depositing or borrowing funds.
