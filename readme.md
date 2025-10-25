@@ -270,8 +270,8 @@ withdrawal_amount = balance * reward_multiplier
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd uf
+git clone https://github.com/stackedeth/under-finance-contracts
+cd under-finance-contracts
 
 # Install dependencies
 scarb build
